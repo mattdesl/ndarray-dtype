@@ -1,0 +1,42 @@
+{
+  "name": "ndarray-dtype",
+  "version": "1.0.0",
+  "description": "get data type for a string, like 'uint8'",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "dtype": "^1.0.0"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "uint8",
+    "data",
+    "type",
+    "datatype",
+    "dtype",
+    "array",
+    "typed",
+    "arrays",
+    "ndarray",
+    "buffer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/ndarray-dtype.git"
+  },
+  "homepage": "https://github.com/mattdesl/ndarray-dtype",
+  "bugs": {
+    "url": "https://github.com/mattdesl/ndarray-dtype/issues"
+  }
+}
