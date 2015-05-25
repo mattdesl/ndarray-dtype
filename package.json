@@ -10,7 +10,7 @@
     "url": "https://github.com/mattdesl"
   },
   "dependencies": {
-    "dtype": "^1.0.0"
+    "dtype": "^2.0.0"
   },
   "devDependencies": {
     "faucet": "0.0.1",
