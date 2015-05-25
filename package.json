@@ -1,6 +1,6 @@
 {
   "name": "ndarray-dtype",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get data type for a string, like 'uint8'",
   "main": "index.js",
   "license": "MIT",
