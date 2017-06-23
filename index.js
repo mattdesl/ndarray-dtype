@@ -1,7 +1,7 @@
 var dtype = require('dtype')
 
 module.exports = function(str) {
-  switch (dtype) {
+  switch (str) {
     case 'generic':
     case 'data':
     case 'dataview':
